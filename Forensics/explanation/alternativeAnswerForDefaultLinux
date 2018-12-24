@@ -1,0 +1,9 @@
+default linux
+Puppy Linux
+2.6.30.5
+
+primary linux 
+included LTS
+
+for conversation numbers
+We found 4 conversations on the disk image, however, the last two conversation only contains whiterose's messages. The messages are never replied. So we decided to use 2(bidirectional conversation) as the answer. 
